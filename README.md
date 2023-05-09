@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am JB, I am a sharepoint developer from the United Kingdom. I love markdown/ documentation (thats where you'll tend to find me hunting all the inaccuraces and grammar issues), Open source software and Low Level programming (despite my job).
+I am JB, I am a C developer from the United Kingdom. I love markdown/ documentation (thats where you'll tend to find me hunting all the inaccuraces and grammar issues), Open source software and Low Level programming.
 
 <!--
 **jpigeon/jpigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
